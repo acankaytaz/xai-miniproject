@@ -2,7 +2,7 @@
 
 A framework for providing **global explanations** for Graph Neural Networks (GNNs) by recovering human-readable logical rules using Description Logics. Built on top of the [EDGE](https://github.com/dice-group/EDGE) evaluation framework with custom adaptations for a video game knowledge graph.
 
-> Group mini-project for **M.079.4091 -- Explainable Artificial Intelligence** (Masters, Summer Semester 2025), Paderborn University. Supervised by Prof. Dr. Stefan Heindorf.
+> Group mini-project for **M.079.4091 -- Explainable Artificial Intelligence** (Masters, Summer Semester 2025), Paderborn University. Supervised by Dr. Stefan Heindorf.
 
 ## Overview
 
